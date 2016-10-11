@@ -1,12 +1,12 @@
-# _{My first webpage}_
+# _My first webpage_
 
-#### _{My dog, and favorite things}, {10/10/2016}_
+#### _My dog, and favorite things, 10/10/2016_
 
-#### By _**{Nigel and Luke}**_
+#### By _**Nigel and Luke**_
 
 ## Description
 
-_{My first webpage about my dog and cool people}_
+_My first webpage about my dog and cool people_
 
 ## Setup/Installation Requirements
 
@@ -16,18 +16,18 @@ _{My first webpage about my dog and cool people}_
 
 ## Known Bugs
 
-_{Fleas}_
+_Fleas_
 
 ## Support and contact details
 
-_{Nigelorion@gmail.com}_
+_Nigelorion@gmail.com_
 
 ## Technologies used
 
-_{Html CSS}_
+_Html CSS_
 
 ### License
 
-*{GPL}*
+*GPL*
 
-Copyright (c) 2016 **_{Epicodus}_**
+Copyright (c) 2016 **_Epicodus_**
